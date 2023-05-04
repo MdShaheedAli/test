@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+	<appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>
+				%d{dd-MM-yyyy HH:mm:ss.SSS} [%thread] %-5level %logger{36}.%M - %msg%n
+			</pattern>
+		</encoder>
+	</appender>
+
+	<appender name="FILEINSPRING" class="ch.qos.logback.core.rolling.RollingFileAppender">
+
+		<file>./logs/archived/logg.log</file>
+
+		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<Pattern>
+				%d{dd-MM-yyyy HH:mm:ss.SSS} [%thread] %-5level %logger{36}.%M - %msg%n
+			</Pattern>
+		</encoder>
+
+		<rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+			<fileNamePattern>./logs/archived/logg-%d{dd-MM-yyyy}_%i.log</fileNamePattern>
+			<maxFileSize>10MB</maxFileSize>
+			<!-- <maxHistory>60</maxHistory> -->
+			<!-- <totalSizeCap>10GB</totalSizeCap> -->
+		</rollingPolicy>
+	</appender>
+
+	<appender name="SAVETOFILELOCALSYSTEM" class="ch.qos.logback.core.rolling.RollingFileAppender">
+
+		<file>/G:/LOGGER/CurrentLogg.log</file>
+
+		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<Pattern>
+				%d{dd-MM-yyyy HH:mm:ss.SSS} [%thread] %-5level %logger{36}.%M - %msg%n
+			</Pattern>
+		</encoder>
+
+		<rollingPolicy
+			class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+			<fileNamePattern>/G:/LOGGER/Logg%d{dd-MM-yyyy}_%i.gz</fileNamePattern>
+			<maxFileSize>900MB</maxFileSize>
+			<!-- <maxHistory>60</maxHistory> -->
+			<!-- <totalSizeCap>10GB</totalSizeCap> -->
+		</rollingPolicy>
+	</appender>
+	
+	<appender name="EMAIL"
+		class="ch.qos.logback.classic.net.SMTPAppender">
+		<smtpHost>smtp.gmail.com</smtpHost>
+		<smtpPort>587</smtpPort>
+		<STARTTLS>true</STARTTLS>
+		<username>shaheed@eitworks.com</username>
+		<password>eitshaheed@123</password>
+		<to>shaheedalish@gmail.com</to>
+		<from>shaheed@eitworks.com</from>
+		<subject>TESTING: %logger{20} - %m</subject>
+
+		<layout class="ch.qos.logback.classic.html.HTMLLayout" />
+	</appender>
+
+
+	<root level="info">
+		<appender-ref ref="CONSOLE" />
+		<appender-ref ref="FILEINSPRING" />
+		<appender-ref ref="SAVETOFILELOCALSYSTEM" />
+		<appender-ref ref="EMAIL" />
+	</root>
+
+</configuration>

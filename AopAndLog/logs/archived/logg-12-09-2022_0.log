@@ -1,0 +1,931 @@
+12-09-2022 15:38:51.845 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 12268 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:38:51.850 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:38:53.040 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:38:53.051 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:38:53.052 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:38:53.052 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:38:53.189 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:38:53.190 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1274 ms 
+12-09-2022 15:38:53.612 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:38:53.645 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:38:53.656 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.214 seconds (JVM running for 3.263) 
+12-09-2022 15:39:54.563 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:39:54.576 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:39:54.577 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:39:54.586 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:39:54.589 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:40:39.026 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 1148 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:40:39.030 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:40:40.199 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:40:40.209 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:40:40.211 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:40:40.211 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:40:40.334 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:40:40.334 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1240 ms 
+12-09-2022 15:40:40.764 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:40:40.786 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:40:40.807 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.205 seconds (JVM running for 3.348) 
+12-09-2022 15:43:17.492 [RMI TCP Connection(11)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:43:17.505 [RMI TCP Connection(11)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:43:17.505 [RMI TCP Connection(11)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:43:17.511 [RMI TCP Connection(11)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:43:17.514 [RMI TCP Connection(11)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:45:10.580 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 2472 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:45:10.586 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:45:11.803 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:45:11.817 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:45:11.819 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:45:11.819 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:45:11.944 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:45:11.944 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1293 ms 
+12-09-2022 15:45:12.360 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:45:12.383 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:45:12.394 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.25 seconds (JVM running for 3.371) 
+12-09-2022 15:45:51.306 [RMI TCP Connection(7)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:45:51.320 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:45:51.321 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:45:51.327 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:45:51.336 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:48:27.540 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 6336 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:48:27.545 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:48:28.786 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:48:28.799 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:48:28.800 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:48:28.801 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:48:28.947 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:48:28.947 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1337 ms 
+12-09-2022 15:48:29.368 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:48:29.391 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:48:29.402 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.329 seconds (JVM running for 3.395) 
+12-09-2022 15:48:47.608 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:48:47.622 [RMI TCP Connection(5)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:48:47.622 [RMI TCP Connection(5)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:48:47.628 [RMI TCP Connection(5)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:48:47.631 [RMI TCP Connection(5)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:48:50.045 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 6408 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:48:50.050 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:48:51.227 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:48:51.241 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:48:51.243 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:48:51.243 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:48:51.375 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:48:51.375 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1262 ms 
+12-09-2022 15:48:51.791 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:48:51.812 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:48:51.823 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.216 seconds (JVM running for 3.324) 
+12-09-2022 15:48:54.609 [RMI TCP Connection(6)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:48:54.622 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:48:54.623 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:48:54.629 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:48:54.632 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:48:57.107 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 9288 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:48:57.112 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:48:58.292 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:48:58.304 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:48:58.305 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:48:58.306 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:48:58.432 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:48:58.432 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1243 ms 
+12-09-2022 15:48:58.849 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:48:58.873 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:48:58.885 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.225 seconds (JVM running for 3.286) 
+12-09-2022 15:49:02.191 [RMI TCP Connection(6)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:49:02.205 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:49:02.206 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:49:02.217 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:49:02.220 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:49:04.500 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 10296 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:49:04.505 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:49:05.681 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:49:05.694 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:49:05.695 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:49:05.695 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:49:05.823 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:49:05.823 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1254 ms 
+12-09-2022 15:49:06.238 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:49:06.259 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:49:06.271 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.205 seconds (JVM running for 3.22) 
+12-09-2022 15:49:10.112 [RMI TCP Connection(7)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:49:10.126 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:49:10.127 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:49:10.133 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:49:10.135 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:49:12.540 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 9528 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:49:12.546 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:49:14.017 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:49:14.032 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:49:14.033 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:49:14.033 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:49:14.169 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:49:14.170 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1558 ms 
+12-09-2022 15:49:14.625 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:49:14.660 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:49:14.672 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.601 seconds (JVM running for 3.601) 
+12-09-2022 15:49:43.564 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:49:43.580 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:49:43.580 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:49:43.586 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:49:43.589 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:14.760 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 4712 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:50:14.766 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:50:15.951 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:50:15.965 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:15.966 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:50:15.968 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:50:16.125 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:50:16.125 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1293 ms 
+12-09-2022 15:50:16.551 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:16.575 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:50:16.587 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.382 seconds (JVM running for 4.497) 
+12-09-2022 15:50:18.528 [RMI TCP Connection(7)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:50:18.543 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:18.544 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:50:18.549 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:18.552 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:20.953 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 5592 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:50:20.958 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:50:22.129 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:50:22.141 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:22.143 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:50:22.143 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:50:22.275 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:50:22.276 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1256 ms 
+12-09-2022 15:50:22.694 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:22.716 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:50:22.729 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.214 seconds (JVM running for 3.215) 
+12-09-2022 15:50:25.464 [RMI TCP Connection(6)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:50:25.478 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:25.479 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:50:25.490 [RMI TCP Connection(6)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833) 
+12-09-2022 15:50:25.492 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:25.494 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:27.833 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 2948 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:50:27.839 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:50:29.061 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:50:29.079 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:29.081 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:50:29.082 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:50:29.209 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:50:29.210 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1300 ms 
+12-09-2022 15:50:29.639 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:29.671 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:50:29.684 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.3 seconds (JVM running for 3.446) 
+12-09-2022 15:50:36.112 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:50:36.128 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:36.128 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:50:36.135 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:36.138 [RMI TCP Connection(2)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:38.610 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 10884 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:50:38.615 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:50:39.855 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:50:39.868 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:39.870 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:50:39.870 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:50:39.995 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:50:39.996 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1317 ms 
+12-09-2022 15:50:40.428 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:40.450 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:50:40.463 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.28 seconds (JVM running for 3.379) 
+12-09-2022 15:50:43.328 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:50:43.359 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:43.360 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:50:43.367 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:43.369 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:45.926 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 9424 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:50:45.931 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:50:47.144 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:50:47.158 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:47.160 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:50:47.160 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:50:47.290 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:50:47.290 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1295 ms 
+12-09-2022 15:50:47.711 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:50:47.735 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:50:47.747 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.266 seconds (JVM running for 3.518) 
+12-09-2022 15:51:48.408 [RMI TCP Connection(6)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:51:48.425 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:51:48.426 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:51:48.433 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:51:48.436 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:52:14.040 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 6972 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:52:14.046 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:52:15.244 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:52:15.255 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:52:15.256 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:52:15.257 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:52:15.394 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:52:15.394 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1274 ms 
+12-09-2022 15:52:15.835 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:52:15.857 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:52:15.868 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.263 seconds (JVM running for 3.301) 
+12-09-2022 15:52:25.744 [RMI TCP Connection(6)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:52:25.763 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:52:25.764 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:52:25.770 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:52:25.772 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:52:29.220 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 3208 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:52:29.226 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:52:30.811 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:52:30.822 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:52:30.823 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:52:30.824 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:52:30.952 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:52:30.952 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1637 ms 
+12-09-2022 15:52:31.387 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:52:31.409 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:52:31.420 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.993 seconds (JVM running for 4.899) 
+12-09-2022 15:52:58.772 [RMI TCP Connection(9)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:52:58.787 [RMI TCP Connection(9)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:52:58.788 [RMI TCP Connection(9)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:52:58.795 [RMI TCP Connection(9)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833) 
+12-09-2022 15:52:58.797 [RMI TCP Connection(9)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:52:58.800 [RMI TCP Connection(9)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:53:31.381 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 5264 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:53:31.386 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:53:32.786 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:53:32.806 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:53:32.809 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:53:32.810 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:53:32.981 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:53:32.982 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1524 ms 
+12-09-2022 15:53:33.514 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:53:33.538 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:53:33.560 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.605 seconds (JVM running for 3.795) 
+12-09-2022 15:53:44.632 [RMI TCP Connection(6)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:53:44.646 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:53:44.647 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:53:44.653 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:53:44.656 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:53:47.109 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 11088 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:53:47.114 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:53:48.300 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:53:48.310 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:53:48.311 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:53:48.311 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:53:48.430 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:53:48.431 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1249 ms 
+12-09-2022 15:53:48.873 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:53:48.897 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:53:48.909 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.221 seconds (JVM running for 3.279) 
+12-09-2022 15:54:12.784 [RMI TCP Connection(7)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:54:12.803 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:12.804 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:54:12.811 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:12.813 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:15.442 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 11292 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:54:15.448 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:54:16.674 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:54:16.685 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:16.687 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:54:16.687 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:54:16.815 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:54:16.815 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1292 ms 
+12-09-2022 15:54:17.258 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:17.282 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:54:17.294 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.342 seconds (JVM running for 3.561) 
+12-09-2022 15:54:34.071 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:54:34.086 [RMI TCP Connection(4)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:34.087 [RMI TCP Connection(4)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:54:34.093 [RMI TCP Connection(4)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:34.095 [RMI TCP Connection(4)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:36.634 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 3940 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:54:36.639 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:54:37.822 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:54:37.838 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:37.840 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:54:37.840 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:54:37.967 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:54:37.968 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1257 ms 
+12-09-2022 15:54:38.386 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:38.409 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:54:38.420 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.201 seconds (JVM running for 3.371) 
+12-09-2022 15:54:45.752 [RMI TCP Connection(6)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:54:45.767 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:45.767 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:54:45.778 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:45.781 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:48.259 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 5600 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:54:48.266 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:54:49.557 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:54:49.569 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:49.570 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:54:49.571 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:54:49.709 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:54:49.710 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1366 ms 
+12-09-2022 15:54:50.160 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:50.183 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:54:50.194 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.416 seconds (JVM running for 3.471) 
+12-09-2022 15:54:51.945 [RMI TCP Connection(7)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:54:51.970 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:51.971 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:54:51.981 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:51.984 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:54.477 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 8608 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:54:54.481 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:54:55.721 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:54:55.733 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:55.734 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:54:55.734 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:54:55.857 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:54:55.857 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1304 ms 
+12-09-2022 15:54:56.276 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:56.299 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:54:56.309 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.268 seconds (JVM running for 3.334) 
+12-09-2022 15:54:58.943 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:54:58.967 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:58.968 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:54:58.974 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:54:58.976 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:01.545 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 1192 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:55:01.553 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:55:02.893 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:55:02.910 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:02.911 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:55:02.912 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:55:03.042 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:55:03.042 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1394 ms 
+12-09-2022 15:55:03.493 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:03.527 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:55:03.539 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.544 seconds (JVM running for 3.779) 
+12-09-2022 15:55:14.600 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:55:14.614 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:14.615 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:55:14.621 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:14.623 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:17.025 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 5284 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:55:17.029 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:55:18.259 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:55:18.270 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:18.271 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:55:18.271 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:55:18.398 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:55:18.398 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1303 ms 
+12-09-2022 15:55:18.832 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:18.855 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:55:18.867 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.262 seconds (JVM running for 3.328) 
+12-09-2022 15:55:21.746 [RMI TCP Connection(6)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:55:21.770 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:21.771 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:55:21.782 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:21.787 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:24.218 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 12116 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:55:24.223 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:55:25.482 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:55:25.494 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:25.495 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:55:25.496 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:55:25.622 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:55:25.623 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1329 ms 
+12-09-2022 15:55:26.043 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:26.066 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:55:26.078 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.29 seconds (JVM running for 3.302) 
+12-09-2022 15:55:30.112 [RMI TCP Connection(7)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:55:30.125 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:30.126 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:55:30.133 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:30.135 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:32.798 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 11952 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:55:32.805 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:55:34.053 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:55:34.069 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:34.071 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:55:34.072 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:55:34.198 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:55:34.198 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1307 ms 
+12-09-2022 15:55:34.655 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:55:34.687 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:55:34.721 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.385 seconds (JVM running for 3.666) 
+12-09-2022 15:56:04.275 [RMI TCP Connection(7)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:56:04.289 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:56:04.289 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:56:04.295 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:56:04.298 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:56:06.799 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 4276 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:56:06.803 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:56:08.040 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:56:08.051 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:56:08.052 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:56:08.052 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:56:08.174 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:56:08.175 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1292 ms 
+12-09-2022 15:56:08.644 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:56:08.669 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:56:08.681 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.314 seconds (JVM running for 3.493) 
+12-09-2022 15:56:11.520 [RMI TCP Connection(6)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:56:11.538 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:56:11.539 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:56:11.545 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:56:11.548 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:56:14.327 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 828 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:56:14.334 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:56:15.614 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:56:15.626 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:56:15.627 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:56:15.628 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:56:15.752 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:56:15.752 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1345 ms 
+12-09-2022 15:56:16.222 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:56:16.250 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:56:16.265 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.38 seconds (JVM running for 3.761) 
+12-09-2022 15:57:09.956 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:57:09.969 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:57:09.970 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:57:09.976 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:57:09.979 [RMI TCP Connection(8)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:57:32.470 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 2660 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 15:57:32.475 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 15:57:33.681 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 15:57:33.692 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:57:33.693 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 15:57:33.693 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 15:57:33.827 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 15:57:33.827 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1284 ms 
+12-09-2022 15:57:34.243 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:57:34.266 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 15:57:34.278 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.241 seconds (JVM running for 3.269) 
+12-09-2022 15:58:18.419 [RMI TCP Connection(9)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 15:58:18.432 [RMI TCP Connection(9)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:58:18.433 [RMI TCP Connection(9)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 15:58:18.439 [RMI TCP Connection(9)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 15:58:18.441 [RMI TCP Connection(9)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 16:10:24.203 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 10500 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog) 
+12-09-2022 16:10:24.207 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default" 
+12-09-2022 16:10:25.395 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http) 
+12-09-2022 16:10:25.405 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 16:10:25.406 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat] 
+12-09-2022 16:10:25.407 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65] 
+12-09-2022 16:10:25.531 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext 
+12-09-2022 16:10:25.532 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1261 ms 
+12-09-2022 16:10:25.965 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"] 
+12-09-2022 16:10:25.988 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path '' 
+12-09-2022 16:10:25.999 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.219 seconds (JVM running for 3.27) 
+12-09-2022 16:12:12.748 [RMI TCP Connection(11)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested. 
+12-09-2022 16:12:12.761 [RMI TCP Connection(11)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"] 
+12-09-2022 16:12:12.762 [RMI TCP Connection(11)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat] 
+12-09-2022 16:12:12.767 [RMI TCP Connection(11)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833) 
+12-09-2022 16:12:12.769 [RMI TCP Connection(11)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"] 
+12-09-2022 16:12:12.772 [RMI TCP Connection(11)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"] 
+12-09-2022 16:22:13.912 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 4172 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog)
+12-09-2022 16:22:13.917 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+12-09-2022 16:22:15.134 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+12-09-2022 16:22:15.145 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:22:15.147 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+12-09-2022 16:22:15.147 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65]
+12-09-2022 16:22:15.260 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+12-09-2022 16:22:15.260 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1276 ms
+12-09-2022 16:22:15.713 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:22:15.737 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+12-09-2022 16:22:15.748 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.28 seconds (JVM running for 3.261)
+12-09-2022 16:22:37.241 [RMI TCP Connection(7)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested.
+12-09-2022 16:22:37.254 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:22:37.255 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat]
+12-09-2022 16:22:37.261 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:22:37.264 [RMI TCP Connection(7)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:23:44.596 [main] INFO 
+				c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 11608 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog)
+12-09-2022 16:23:44.600 [main] INFO 
+				c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+12-09-2022 16:23:45.803 [main] INFO 
+				o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+12-09-2022 16:23:45.815 [main] INFO 
+				o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:23:45.816 [main] INFO 
+				o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+12-09-2022 16:23:45.817 [main] INFO 
+				o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65]
+12-09-2022 16:23:45.928 [main] INFO 
+				o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+12-09-2022 16:23:45.928 [main] INFO 
+				o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1264 ms
+12-09-2022 16:23:46.366 [main] INFO 
+				o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:23:46.388 [main] INFO 
+				o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+12-09-2022 16:23:46.399 [main] INFO 
+				c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.25 seconds (JVM running for 3.238)
+12-09-2022 16:23:48.401 [RMI TCP Connection(6)-127.0.0.1] INFO 
+				o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested.
+12-09-2022 16:23:48.415 [RMI TCP Connection(6)-127.0.0.1] INFO 
+				o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:23:48.415 [RMI TCP Connection(6)-127.0.0.1] INFO 
+				o.a.catalina.core.StandardService.log - Stopping service [Tomcat]
+12-09-2022 16:23:48.422 [RMI TCP Connection(6)-127.0.0.1] INFO 
+				o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:23:48.424 [RMI TCP Connection(6)-127.0.0.1] INFO 
+				o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:26:21.975 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 10832 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog)
+12-09-2022 16:26:21.979 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+12-09-2022 16:26:23.155 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+12-09-2022 16:26:23.168 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:26:23.169 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+12-09-2022 16:26:23.169 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65]
+12-09-2022 16:26:23.365 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+12-09-2022 16:26:23.365 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1318 ms
+12-09-2022 16:26:23.859 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:26:23.882 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+12-09-2022 16:26:23.894 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.358 seconds (JVM running for 3.366)
+12-09-2022 16:27:54.270 [RMI TCP Connection(10)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested.
+12-09-2022 16:27:54.283 [RMI TCP Connection(10)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:27:54.284 [RMI TCP Connection(10)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat]
+12-09-2022 16:27:54.295 [RMI TCP Connection(10)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:27:54.298 [RMI TCP Connection(10)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:28:01.416 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 2324 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog)
+12-09-2022 16:28:01.425 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+12-09-2022 16:28:02.600 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+12-09-2022 16:28:02.611 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:28:02.612 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+12-09-2022 16:28:02.612 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65]
+12-09-2022 16:28:02.804 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+12-09-2022 16:28:02.805 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1300 ms
+12-09-2022 16:28:03.218 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:28:03.241 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+12-09-2022 16:28:03.252 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.245 seconds (JVM running for 3.384)
+12-09-2022 16:28:19.766 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+12-09-2022 16:28:19.767 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+12-09-2022 16:28:19.768 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 1 ms
+12-09-2022 16:28:19.837 [http-nio-8080-exec-1] ERROR   Aspect  .before - Before Msg From AOP ....
+12-09-2022 16:28:19.878 [http-nio-8080-exec-1] ERROR   Aspect  .after2 - After using Commen Pointcut Msg From AOP ....
+12-09-2022 16:28:19.879 [http-nio-8080-exec-1] ERROR   Aspect  .after - After Msg From AOP ....
+12-09-2022 16:28:19.891 [http-nio-8080-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet].log - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException: Cannot invoke "Object.toString()" because "org.aspectj.lang.JoinPoint.getArgs()[0]" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "Object.toString()" because "org.aspectj.lang.JoinPoint.getArgs()[0]" is null
+	at com.example.AopAndLog.aopConfigurations.AfterReturningAndThrowing.afterReturning(AfterReturningAndThrowing.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:634)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:617)
+	at org.springframework.aop.aspectj.AspectJAfterReturningAdvice.afterReturning(AspectJAfterReturningAdvice.java:66)
+	at org.springframework.aop.framework.adapter.AfterReturningAdviceInterceptor.invoke(AfterReturningAdviceInterceptor.java:58)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:708)
+	at com.example.AopAndLog.controller.HelloController$$EnhancerBySpringCGLIB$$67af6050.sayHello(<generated>)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:30:02.306 [http-nio-8080-exec-4] ERROR   Aspect  .before - Before Msg From AOP ....
+12-09-2022 16:30:02.310 [http-nio-8080-exec-4] ERROR   Aspect  .after2 - After using Commen Pointcut Msg From AOP ....
+12-09-2022 16:30:02.312 [http-nio-8080-exec-4] ERROR   Aspect  .after - After Msg From AOP ....
+12-09-2022 16:30:52.991 [RMI TCP Connection(12)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested.
+12-09-2022 16:30:53.002 [RMI TCP Connection(12)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:30:53.003 [RMI TCP Connection(12)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat]
+12-09-2022 16:30:53.004 [RMI TCP Connection(12)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Destroying Spring FrameworkServlet 'dispatcherServlet'
+12-09-2022 16:30:53.009 [RMI TCP Connection(12)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:30:53.010 [RMI TCP Connection(12)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-2] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:30:53.011 [RMI TCP Connection(12)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-3] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:30:53.012 [RMI TCP Connection(12)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-4] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:30:53.013 [RMI TCP Connection(12)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-5] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:30:53.014 [RMI TCP Connection(12)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-6] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:30:53.014 [RMI TCP Connection(12)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-7] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:30:53.016 [RMI TCP Connection(12)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:30:53.019 [RMI TCP Connection(12)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:32:12.964 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 11228 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog)
+12-09-2022 16:32:12.970 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+12-09-2022 16:32:14.159 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+12-09-2022 16:32:14.179 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:32:14.182 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+12-09-2022 16:32:14.183 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65]
+12-09-2022 16:32:14.417 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+12-09-2022 16:32:14.417 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1374 ms
+12-09-2022 16:32:14.845 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:32:14.866 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+12-09-2022 16:32:14.878 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.35 seconds (JVM running for 3.473)
+12-09-2022 16:32:22.833 [RMI TCP Connection(6)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested.
+12-09-2022 16:32:22.848 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:32:22.848 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat]
+12-09-2022 16:32:22.855 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:32:22.857 [RMI TCP Connection(6)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:38:42.138 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarting - Starting AopAndLogApplication using Java 17.0.2 on DESKTOP-9GLOO39 with PID 4000 (C:\Users\admin\Downloads\AopAndLog\AopAndLog\target\classes started by admin in C:\Users\admin\Downloads\AopAndLog\AopAndLog)
+12-09-2022 16:38:42.144 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+12-09-2022 16:38:43.409 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 8080 (http)
+12-09-2022 16:38:43.422 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:38:43.423 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+12-09-2022 16:38:43.424 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65]
+12-09-2022 16:38:43.560 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+12-09-2022 16:38:43.561 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1343 ms
+12-09-2022 16:38:44.066 [main] INFO  o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:38:44.090 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
+12-09-2022 16:38:44.103 [main] INFO  c.e.AopAndLog.AopAndLogApplication.logStarted - Started AopAndLogApplication in 2.433 seconds (JVM running for 3.601)
+12-09-2022 16:38:57.148 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+12-09-2022 16:38:57.148 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+12-09-2022 16:38:57.150 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 1 ms
+12-09-2022 16:38:57.198 [http-nio-8080-exec-1] ERROR   Aspect  .before - Before Msg From AOP ....
+12-09-2022 16:38:57.215 [http-nio-8080-exec-1] ERROR   Aspect  .after2 - After using Commen Pointcut Msg From AOP ....
+12-09-2022 16:38:57.216 [http-nio-8080-exec-1] ERROR   Aspect  .after - After Msg From AOP ....
+12-09-2022 16:39:24.192 [http-nio-8080-exec-2] ERROR   Aspect  .before - Before Msg From AOP ....
+12-09-2022 16:39:24.194 [http-nio-8080-exec-2] ERROR   Aspect  .after2 - After using Commen Pointcut Msg From AOP ....
+12-09-2022 16:39:24.195 [http-nio-8080-exec-2] ERROR   Aspect  .after - After Msg From AOP ....
+12-09-2022 16:39:56.478 [http-nio-8080-exec-3] ERROR   Aspect  .before - Before Msg From AOP ....
+12-09-2022 16:39:56.479 [http-nio-8080-exec-3] ERROR   Aspect  .after2 - After using Commen Pointcut Msg From AOP ....
+12-09-2022 16:39:56.481 [http-nio-8080-exec-3] ERROR   Aspect  .after - After Msg From AOP ....
+12-09-2022 16:39:56.660 [http-nio-8080-exec-4] ERROR   Aspect  .before - Before Msg From AOP ....
+12-09-2022 16:39:56.662 [http-nio-8080-exec-4] ERROR   Aspect  .after2 - After using Commen Pointcut Msg From AOP ....
+12-09-2022 16:39:56.663 [http-nio-8080-exec-4] ERROR   Aspect  .after - After Msg From AOP ....
+12-09-2022 16:39:56.845 [http-nio-8080-exec-5] ERROR   Aspect  .before - Before Msg From AOP ....
+12-09-2022 16:39:56.845 [http-nio-8080-exec-5] ERROR   Aspect  .after2 - After using Commen Pointcut Msg From AOP ....
+12-09-2022 16:39:56.846 [http-nio-8080-exec-5] ERROR   Aspect  .after - After Msg From AOP ....
+12-09-2022 16:39:57.029 [http-nio-8080-exec-6] ERROR   Aspect  .before - Before Msg From AOP ....
+12-09-2022 16:39:57.030 [http-nio-8080-exec-6] ERROR   Aspect  .after2 - After using Commen Pointcut Msg From AOP ....
+12-09-2022 16:39:57.030 [http-nio-8080-exec-6] ERROR   Aspect  .after - After Msg From AOP ....
+12-09-2022 16:39:57.198 [http-nio-8080-exec-7] ERROR   Aspect  .before - Before Msg From AOP ....
+12-09-2022 16:39:57.199 [http-nio-8080-exec-7] ERROR   Aspect  .after2 - After using Commen Pointcut Msg From AOP ....
+12-09-2022 16:39:57.199 [http-nio-8080-exec-7] ERROR   Aspect  .after - After Msg From AOP ....
+12-09-2022 16:39:57.373 [http-nio-8080-exec-8] ERROR   Aspect  .before - Before Msg From AOP ....
+12-09-2022 16:39:57.374 [http-nio-8080-exec-8] ERROR   Aspect  .after2 - After using Commen Pointcut Msg From AOP ....
+12-09-2022 16:39:57.375 [http-nio-8080-exec-8] ERROR   Aspect  .after - After Msg From AOP ....
+12-09-2022 16:39:57.540 [http-nio-8080-exec-9] ERROR   Aspect  .before - Before Msg From AOP ....
+12-09-2022 16:39:57.541 [http-nio-8080-exec-9] ERROR   Aspect  .after2 - After using Commen Pointcut Msg From AOP ....
+12-09-2022 16:39:57.542 [http-nio-8080-exec-9] ERROR   Aspect  .after - After Msg From AOP ....
+12-09-2022 16:39:57.724 [http-nio-8080-exec-10] ERROR   Aspect  .before - Before Msg From AOP ....
+12-09-2022 16:39:57.725 [http-nio-8080-exec-10] ERROR   Aspect  .after2 - After using Commen Pointcut Msg From AOP ....
+12-09-2022 16:39:57.725 [http-nio-8080-exec-10] ERROR   Aspect  .after - After Msg From AOP ....
+12-09-2022 16:39:57.882 [http-nio-8080-exec-1] ERROR   Aspect  .before - Before Msg From AOP ....
+12-09-2022 16:39:57.883 [http-nio-8080-exec-1] ERROR   Aspect  .after2 - After using Commen Pointcut Msg From AOP ....
+12-09-2022 16:39:57.883 [http-nio-8080-exec-1] ERROR   Aspect  .after - After Msg From AOP ....
+12-09-2022 16:39:58.067 [http-nio-8080-exec-3] ERROR   Aspect  .before - Before Msg From AOP ....
+12-09-2022 16:39:58.068 [http-nio-8080-exec-3] ERROR   Aspect  .after2 - After using Commen Pointcut Msg From AOP ....
+12-09-2022 16:39:58.068 [http-nio-8080-exec-3] ERROR   Aspect  .after - After Msg From AOP ....
+12-09-2022 16:39:58.229 [http-nio-8080-exec-4] ERROR   Aspect  .before - Before Msg From AOP ....
+12-09-2022 16:39:58.230 [http-nio-8080-exec-4] ERROR   Aspect  .after2 - After using Commen Pointcut Msg From AOP ....
+12-09-2022 16:39:58.231 [http-nio-8080-exec-4] ERROR   Aspect  .after - After Msg From AOP ....
+12-09-2022 16:40:58.917 [RMI TCP Connection(11)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested.
+12-09-2022 16:40:58.928 [RMI TCP Connection(11)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Pausing ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:40:58.928 [RMI TCP Connection(11)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat]
+12-09-2022 16:40:58.930 [RMI TCP Connection(11)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Destroying Spring FrameworkServlet 'dispatcherServlet'
+12-09-2022 16:40:58.935 [RMI TCP Connection(11)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:40:58.936 [RMI TCP Connection(11)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-2] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:40:58.937 [RMI TCP Connection(11)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-3] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:40:58.938 [RMI TCP Connection(11)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-4] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:40:58.939 [RMI TCP Connection(11)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-5] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:40:58.940 [RMI TCP Connection(11)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-6] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:40:58.940 [RMI TCP Connection(11)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-7] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:40:58.942 [RMI TCP Connection(11)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-8] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.2/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+12-09-2022 16:40:58.944 [RMI TCP Connection(11)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Stopping ProtocolHandler ["http-nio-8080"]
+12-09-2022 16:40:58.946 [RMI TCP Connection(11)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol.log - Destroying ProtocolHandler ["http-nio-8080"]
